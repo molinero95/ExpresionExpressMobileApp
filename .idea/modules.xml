@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExpresionExpressMobileApp.iml" filepath="$PROJECT_DIR$/ExpresionExpressMobileApp.iml" />
+      <module fileurl="file://C:\Users\Jaime-PC\AndroidStudioProjects\ExpresionExpressMobileApp\ExpresionExpressMobileApp.iml" filepath="C:\Users\Jaime-PC\AndroidStudioProjects\ExpresionExpressMobileApp\ExpresionExpressMobileApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Jaime-PC\AndroidStudioProjects\ExpresionExpressMobileApp\app\app.iml" filepath="C:\Users\Jaime-PC\AndroidStudioProjects\ExpresionExpressMobileApp\app\app.iml" />
     </modules>
   </component>
 </project>

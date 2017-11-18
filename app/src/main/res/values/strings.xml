@@ -7,6 +7,6 @@
     <string name="action_settings">Settings</string>
     <string name="Mayor">Mayor</string>
     <string name="Menor">Menor</string>
-    <string name="Seleccione_numero_personas">Seleccione el número de personas</string>
+    <string name="Seleccione_numero_personas">Seleccione el número de jugadores</string>
     <string name="Continuar">Continuar</string>
 </resources>

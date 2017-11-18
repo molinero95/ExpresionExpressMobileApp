@@ -21,6 +21,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".NumParejas" />
+        <activity android:name=".Nombres"></activity>
     </application>
 
 </manifest>
